@@ -8,3 +8,4 @@ este repositório guarda os trabalhos e projetos da disciplina
 - Java
 - Python
 - C
+- Dart
